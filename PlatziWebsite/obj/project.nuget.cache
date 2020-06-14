@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3msmTqEwOk+Gc+XV4vXLQjh/SQSz4Uso23an80/HAbFQ1xiSYroHUCdcqE+HMCNYMKxoKuAdzTJNkgk/98zpw==",
+  "success": true,
+  "projectFilePath": "D:\\platzi\\desarrollo-de-aplicaciones-con-aspnet\\3. Avanzado\\3. Curso de Web Apps y Logic Apps en Azure\\PlatziWebsite\\PlatziWebsite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOSE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
